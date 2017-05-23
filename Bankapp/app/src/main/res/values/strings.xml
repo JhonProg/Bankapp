@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Bankapp</string>
+    <string name="Categoria">Categorias</string>
+    <string name="SeleccionCategoria">Selecciona el tema o categoría por el cual se comunica</string>
+
+    <string-array name="tipoDocumento_array">
+        <item>Seleccione tipo documento</item>
+        <item>CC - Cedula Ciudadania</item>
+        <item>CE - Cedula extranjeria</item>
+    </string-array>
+
+
+</resources>
